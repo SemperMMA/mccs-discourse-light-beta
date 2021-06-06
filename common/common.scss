@@ -28,7 +28,7 @@ a {
 }
 
 html {
-  font-family: 'Source Sans Pro', sans-serif;
+  font-family: 'Nunito', sans-serif;
   font-size: 17px;
   &.text-size-smaller {
     font-size: 16px;
@@ -54,7 +54,7 @@ tbody {
   border: 1px solid $love#{50};
   a {
     color: $quaternary;
-    font-family: 'Source Code Pro';
+    font-family: 'Nunito';
     font-size: 13px;
     &:hover {
       color: $quaternary#{90};
