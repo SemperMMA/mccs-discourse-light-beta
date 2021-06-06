@@ -1,5 +1,5 @@
 {
-    "name": "MCCS Discourse – Dark",
+    "name": "MCCS Discourse – Light (Beta)",
     "about_url": "",
     "liscense_url": "",
     "assets": {
@@ -16,7 +16,7 @@
       "scp-regular":"assets/SourceCodePro-Regular.ttf"
     },
     "color_schemes": {
-      "MCCS Discourse – Dark": {
+      "MCCS Discourse – Light (Beta)": {
         "primary": "f2f2f2",
         "secondary": "282a36",
         "tertiary": "e64e67",
