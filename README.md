@@ -1,5 +1,4 @@
-# MCCS Discourse – Dark Theme
+# MCCS Discourse – Light Theme
 
 > A dark theme for [Discourse](https://www.discourse.org/)
 
-![Screenshot](./screenshot.png)
