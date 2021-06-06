@@ -1,12 +1,17 @@
 @import "fonts";
 
 button#create-topic {
-    background-color: #363636 !important;
+    background-color: #3452ff !important;
     color: #ffffff !important;
 }
 
 button#create-topic .d-icon {
     color: #b6b6b6 !important;
+}
+
+tbody tr.topic-list-item {
+    border-bottom: 1px solid #e7e7e8 !important;
+    background-color: #f8f8fc !important;
 }
 
 @keyframes background-fade-highlight {
