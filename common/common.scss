@@ -1,19 +1,5 @@
 @import "fonts";
 
-button#create-topic {
-    background-color: #3452ff !important;
-    color: #ffffff !important;
-}
-
-button#create-topic .d-icon {
-    color: #b6b6b6 !important;
-}
-
-tbody tr.topic-list-item {
-    border-bottom: 1px solid #e7e7e8 !important;
-    background-color: #f8f8fc !important;
-}
-
 @keyframes background-fade-highlight {
   0% {
     background-color: $love#{30}; //new color!
@@ -54,7 +40,7 @@ tbody {
   border: 1px solid $love#{50};
   a {
     color: $quaternary;
-    font-family: 'Source Sans Pro';
+    font-family: 'Source Code Pro';
     font-size: 13px;
     &:hover {
       color: $quaternary#{90};
@@ -329,4 +315,13 @@ input[type="color"]:focus, textarea:focus {
 // composer popup
 .composer-popup {
   background: rgb(77,69,104);
+}
+
+button#create-topic {
+    background-color: #3452ff !important;
+    color: #ffffff !important;
+}
+
+button#create-topic .d-icon {
+    color: #b6b6b6 !important;
 }
