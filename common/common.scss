@@ -1,5 +1,9 @@
 @import "fonts";
 
+b, strong {
+    color: #e64e67 !important;
+}
+
 .topic-list-item.visited a.title:not(.badge-notification), .latest-topic-list-item.visited a.title:not(.badge-notification), .category-topic-link.visited a.title:not(.badge-notification) {
     color: #ccc !important;
 }
