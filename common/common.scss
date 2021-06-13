@@ -26,7 +26,7 @@ b, strong {
 }
 
 a {
-  color: #e64e67;
+  color: var(--tertiary) !important;
 }
 
 html {
