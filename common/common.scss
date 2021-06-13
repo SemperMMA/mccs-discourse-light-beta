@@ -1,5 +1,9 @@
 @import "fonts";
 
+.custom-footer .footer-section-link-wrapper a {
+    color: #c6ccda !important;
+}
+
 b, strong {
     color: #e64e67 !important;
 }
@@ -22,7 +26,7 @@ b, strong {
 }
 
 a {
-  color: $quaternary;
+  color: #e64e67;
 }
 
 html {
